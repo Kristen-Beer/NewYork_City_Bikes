@@ -17,5 +17,6 @@ The top three most frequently used Starting stations were Hoboken Terminal - Riv
 
 The top three most frequently used Ending stations were Grove ST Path, Hoboken Terminal - River St & Hudson Pl,  and Hoboken Terminal - Hudson St & Hudson Pl.
 
-https://github.com/Kristen-Beer/NewYork_City_Bikes/blob/c9531944ed87efda603332c88fbcf79c3cf882e4/Resources/Station_Usage_Trends_Story.png
+![image](https://github.com/Kristen-Beer/NewYork_City_Bikes/assets/136931429/33019cea-5059-466b-820a-0ff095b75c09)
+
  
